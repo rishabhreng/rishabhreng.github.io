@@ -1,0 +1,14 @@
+* {
+  font-family: 'Courier New', Courier, monospace
+}
+
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    /* font-family: 'Arial'; */
+    background: azure;
+    color: purple;
+}
